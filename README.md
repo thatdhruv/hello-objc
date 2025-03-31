@@ -1,8 +1,6 @@
 # hello-objc
 A minimal macOS GUI app written in Objective-C, built **entirely programmatically** &mdash; no `.nib` files or Interface Builder required. 
 
-![hello-objc](hello-objc.png)
-
 ## **Overview**  
 `hello-objc` is inspired by Jeff Johnson's [Working Without a NIB](https://lapcatsoftware.com/blog/2007/05/16/working-without-a-nib-part-1/) project, which builds the entire UI programmatically using the Cocoa application framework. Owing to its reliance on Cocoa and the AppKit framework, `hello-objc` can run on every version of macOS &mdash; from Mac OS X 10.0 Cheetah (2001), to macOS 15.0 Sequoia (present)!
 
