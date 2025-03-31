@@ -52,7 +52,7 @@
 - (id)init
 {
     if ((self = [super init])) {
-        m_applicationName = [NSLocalizedString(@"Hello", nil) retain];
+        m_applicationName = [@"Hello" retain];
     }
     return self;
 }
